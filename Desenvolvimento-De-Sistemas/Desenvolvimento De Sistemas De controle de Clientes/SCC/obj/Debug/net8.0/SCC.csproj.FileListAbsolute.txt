@@ -1,0 +1,15 @@
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\bin\Debug\net8.0\SCC.exe
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\bin\Debug\net8.0\SCC.deps.json
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\bin\Debug\net8.0\SCC.runtimeconfig.json
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\bin\Debug\net8.0\SCC.dll
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\bin\Debug\net8.0\SCC.pdb
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\obj\Debug\net8.0\SCC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\obj\Debug\net8.0\SCC.AssemblyInfoInputs.cache
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\obj\Debug\net8.0\SCC.AssemblyInfo.cs
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\obj\Debug\net8.0\SCC.csproj.CoreCompileInputs.cache
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\obj\Debug\net8.0\SCC.sourcelink.json
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\obj\Debug\net8.0\SCC.dll
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\obj\Debug\net8.0\refint\SCC.dll
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\obj\Debug\net8.0\SCC.pdb
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\obj\Debug\net8.0\SCC.genruntimeconfig.cache
+D:\Senai\Exercícios Senai\Desenvolvimento De Sistemas De controle de Clientes\SCC\obj\Debug\net8.0\ref\SCC.dll
